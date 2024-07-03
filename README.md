@@ -7,7 +7,7 @@ The above copyright notice and this permission notice shall be included in all c
 
 THE SOFTWARE IS PROVIDED “AS IS”, WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
 
-Websites: https://magadhan.github.io/Vertical-Slider/
+Websites: https://magadhan.github.io/Vertical-Slider/ <br>
           https://verticalslider25.netlify.app/
 
 <img width="959" alt="Screenshot 2024-07-02 231958" src="https://github.com/magadhan/Vertical-Slider/assets/143823780/2dd4a5fa-375d-484e-bf10-1d6ab19139fb">
